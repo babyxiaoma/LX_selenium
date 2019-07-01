@@ -1,0 +1,10 @@
+2019-06-29 19:14:22,197 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:name--->定位值为:username
+2019-06-29 19:14:22,720 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:name--->定位值为:password
+2019-06-29 19:14:22,720 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:name--->定位值为:password
+2019-06-29 19:14:23,183 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:id--->定位值为:login
+2019-06-29 19:14:23,183 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:id--->定位值为:login
+2019-06-29 19:14:23,183 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:id--->定位值为:login
+2019-06-29 19:14:23,360 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:class--->定位值为:layui-layer-content
+2019-06-29 19:14:23,360 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:class--->定位值为:layui-layer-content
+2019-06-29 19:14:23,360 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:class--->定位值为:layui-layer-content
+2019-06-29 19:14:23,360 -- find_element.py -- get_element -- 17 --INFO -- 20 --- 定位方式:class--->定位值为:layui-layer-content
